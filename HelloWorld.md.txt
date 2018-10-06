@@ -1,2 +1,1 @@
-Project text file
 ## This is a markdown file
